@@ -1,0 +1,16 @@
+
+
+(for flag -s)
+----------- for flag -b, -E, -n, -T, -s:
+
+you need this line: hi!
+
+
+
+
+you don't need this line
+
+you need this line: hi	hello		he-he-he
+
+----------- for flags -e, -t, -v:
+open ascii_test.txt
